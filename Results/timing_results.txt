@@ -1,0 +1,19 @@
+6T SRAM WRITE DELAY
+===================
+
+Technology: 180 nm CMOS
+VDD: 1.8 V
+Temperature: 27 C
+
+Operation:
+WRITE-0
+
+Measurement:
+WL 50% threshold crossing = 50.5 ns
+Q 50% threshold crossing  = 50.805 ns
+
+Write delay:
+50.805 ns - 50.5 ns
+= 0.305 ns
+
+Write delay ≈ 305 ps

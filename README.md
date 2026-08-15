@@ -102,18 +102,5 @@ Measured WRITE-0 delay:
 - SPICE
 - 180-nm CMOS BSIM model
 
-## Project Structure
 
-```text
-6T-SRAM-Design-LTspice/
-│
-├── LTspice/
-│   └── 6T_SRAM.asc
-│
-├── Results/
-│   ├── hold_operation.png
-│   ├── write_0.png
-│   ├── write_1.png
-│   └── timing_results.txt
-│
 └── README.md
